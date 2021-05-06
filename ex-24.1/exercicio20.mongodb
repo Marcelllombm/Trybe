@@ -6,7 +6,7 @@ use("class");
 
 db.xmen.updateMany(
   {
-    areas: { $exists: true}, occupation: "Junior Staff"
+    areas: { $exists: false}, occupation: "Junior Staff"
   },
   {
     $currentDate: { lastUpdate: { $type: "timestamp" } },
