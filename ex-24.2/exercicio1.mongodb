@@ -1,7 +1,7 @@
 // Exercício 1: Adicione a categoria "superhero" ao 
 //filme Batman .
 // Após a execução do método .find().pretty() , 
-//o resultado do filme Batman será parecido com 
+
 use("filmes");
 db.movies.updateOne(
   {
@@ -15,3 +15,4 @@ db.movies.updateOne(
   }
 );
 db.movies.find().pretty();
+
