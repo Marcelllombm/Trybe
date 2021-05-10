@@ -15,5 +15,3 @@ db.movies.updateOne(
   }
 );
 db.movies.find().pretty();
-
-
