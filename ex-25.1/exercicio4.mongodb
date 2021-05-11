@@ -1,0 +1,25 @@
+// Exercício 4: Conte quantos clientes do estado SC 
+// existem na coleção. Retorne um documento em que o campo _id 
+// contenha a UF e outro campo com o total.
+
+use("erp");
+db.clientes.aggregate([
+  {
+    $match: 
+    {
+      "endereco.uf":"SC"
+    },
+  },
+  {
+    $group: 
+    {
+      _id: "SC",
+      total: { $sum: 1}
+    }
+  },
+]);
+
+// aggregation Grupos de documentos de entrada pela _idexpressão especificada e, 
+//para cada agrupamento distinto, gera um documento. O _idcampo de cada
+// documento de saída contém o grupo exclusivo por valor. Os documentos de saída 
+//também podem conter campos computados que contêm os valores de alguma 
