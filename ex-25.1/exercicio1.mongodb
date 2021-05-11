@@ -1,0 +1,15 @@
+// Exercício 1: Utilizando o estágio $match , escreva uma agregação para retornar 
+// somente os clientes do sexo "MASCULINO" .
+use('erp');
+db.clientes.aggregate(
+  [
+    {
+      $match: {
+        sexo:{$eq : "MASCULINO"},
+      },
+    },
+  ],
+);
+
+// Filtra os documentos para passar apenas os documentos que correspondem às condições 
+//especificadas para o próximo estágio
