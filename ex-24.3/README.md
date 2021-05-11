@@ -1,0 +1,34 @@
+Agora, a prática!
+Você continuará utilizando o mesmo dataset de filmes do dia anterior. Por isso, hora de voltar a coleção movies para o seu estado original:
+```
+db.movies.drop();
+db.movies.insertMany([
+  {
+    title: "Batman",
+    category: [
+      "action",
+      "adventure"
+    ],
+    imdbRating: 7.7,
+    budget: 35
+  },
+  {
+    title: "Godzilla",
+    category: [
+      "action",
+      "adventure",
+      "sci-fi"
+    ],
+    imdbRating: 6.6,
+    budget: 10
+  },
+  {
+    title: "Home Alone",
+    category: [
+      "family",
+      "comedy"
+    ],
+    imdbRating: 7.4
+  }
+]);
+```
