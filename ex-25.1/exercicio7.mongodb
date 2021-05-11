@@ -4,14 +4,17 @@
 //   (não se importe com a ordem dos campos):
 
 use("erp");
+
 db.clientes.aggregate([
   {
-    $group: {
-      _id: {
+    $group: 
+    {
+      _id: 
+      {
         sexo: "$sexo",
-        uf: "$endereco.uf"
+        uf: "$endereco.uf",
       },
-      total: {$sum: 1}
+      total: { $sum: 1}
     }
   },
   {
@@ -19,8 +22,7 @@ db.clientes.aggregate([
       _id: 0,
       "estado": "$_id.uf",
       "sexo": "$_id.sexo",
-      "total":1,
+      "total": 1      
     }
   }
-
 ]);
