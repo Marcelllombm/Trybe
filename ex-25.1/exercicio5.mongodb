@@ -1,0 +1,29 @@
+// Exercício 5: Agrupe os clientes por sexo .
+// Retorne o total de clientes de cada sexo no campo total .
+// retorna o valo total do campo sexo separado tipo de campo do sexo
+use("erp");
+db.clientes.aggregate([
+  {
+    $group: 
+    {
+      _id: "$sexo",
+      total: 
+      {
+        $sum: 1
+      }
+    }
+  }
+]);
+
+// retorna o valor total do sexo
+use("erp");
+db.clientes.aggregate([
+  {
+    $group: {
+      _id: "sexo",
+      total: {
+        $sum: 1
+      }
+    }
+  }
+]);
