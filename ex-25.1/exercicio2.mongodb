@@ -15,3 +15,5 @@ db.clientes.aggregate([
       },
     },
   ]);
+  // $match  documentos para passar apenas os 
+  //documentos que correspondem às condições especificadas 
