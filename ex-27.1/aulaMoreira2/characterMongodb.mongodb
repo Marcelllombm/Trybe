@@ -1,0 +1,18 @@
+use ('live_lecture_27_1');
+db.characters.insertMany([
+  { 
+		_id: ObjectId("5fa86e58042b2ddc1c00ad5c"),
+    name: 'Pantera Cor-de-Rosa',
+    cartoon: 'The Pink Panther Show',
+  },
+  { 
+    name: 'Papa-Léguas',
+    cartoon: 'Looney Tunes',
+    _id: ObjectId("5fa86e58042b2ddc1c00ad5a"),
+  },
+  { 
+    name: 'Coragem',
+    cartoon: 'Coragem, o Cão Covarde',
+		ObjectId("5fa86e58042b2ddc1c00ad5b"),
+  },
+])
