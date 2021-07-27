@@ -1,7 +1,99 @@
 # Trybe
 Na Prática
 # Desenvolvimento Front-end
+#### Bloco 11: Introducao à React
+```
+01 Introducao - Front-end / react / "hello, world no react"
+```
+```
+02 Componentes React
+```
+```
+03 Projeto - Movie Cards Library
+```
+#### Bloco 12: Componentes com Estado, Eventos e Formulários com React
+```
+01 Componentes com estado e eventos
+```
+```
+02 Formulários no React
+```
+```
+03 Projeto - Movie card Libray Statefull
+```
+#### Bloco 13: Ciclo de vida de Componentes e React Router
+```
+01 Ciclo de vida de componentes
+```
+```
+02 React Router
+```
+```
+03 Projeto: Movie Cards Libray Crud
+```
+#### Bloco 14: Metodologia Ágeis
+```
+01 Metodologia Ágeis
+```
+```
+02 Projeto - Frontend
+```
+#### Bloco 15: Teste automotizados com React testing Libray
+```
+01 RTL - Primeiros passos
+```
+```
+02 RTL - Mocks e Inputl
+```
+```
+03 RTL - Testando React Router
+```
+```
+04 Projeto - testes em React
+```
 
+#### Bloco 16: Gerenciamento de estado com Redux
+```
+01 Introdução ao Redux - O estado global da aplicação
+```
+```
+02 Usando o Redux no React
+```
+```
+03 Usando o Redux no React - Prática
+```
+```
+04 Usando o Redux no React = Actions Assíncronas
+```
+```
+05 Testes em React-Redux
+```
+```
+06 Projeto Trybe Wallet
+```
+#### Bloco 17: Projeto Jogo da Trivia
+```
+Projeto - Jogo de Trivia
+```
+
+#### Bloco 18: Context API e React Hooks
+```
+01 Context API do React
+```
+```
+02 React Hooks - useState e useContext
+```
+```
+03 React Hooks - userEffect e Hooks customizados
+```
+```
+04 Projeto - Starwars Database com context API e Hooks
+```
+#### Bloco 19: Projeto App de Receitas
+
+```
+01 Projeto - App de Receitas
+```
 # Desenvolvimento Back-end
 #### Bloco 20: Introdução à SQL
 ```
