@@ -1,7 +1,111 @@
-# Trybe
-Na Prática
+# Trybe Na Prática 
+</br>
+
+# Fundamentos
+<details>
+<Summary><b>Fundamentos</b></Summary>
+</br>
+
+## Bloco 01:  Unix & Bash
+
+```
+01 Fundamentos do Desenvolvimento Web
+```
+```
+02 Introdução - Unix & Shell
+```
+```
+03 Unix & Bash - Parte 1
+```
+```
+04 Unix & Bash - Parte 2
+```
+</br>
+
+## Bloco 02:  Git, GitHub e Internt
+
+```
+01 Git & Github - O que é e para que serve
+```
+
+```
+02 Git & Github - Entendendo os comandos
+```
+```
+03 Internet - Entendendo como ela funciona
+```
+</br>
+
+## Bloco 03: Introdução a HTML e CSS
+
+ ```
+01 Introdução -  HTML & CSS / Estrutura da página
+ ```
+ ```
+02 HTML & CSS - Primeiros passos em css
+ ```
+ ```
+03 HTML & CSS - Seletores e posiciomento
+ ```
+ ```
+04 HTML Semântico
+ ```
+ ```
+05 Projeto - Lessons Learned
+ ```
+ </br>
+
+## Bloco 04: Introdução à JavaScript e Lógica de Programação
+```
+01 Introdução - JavaScript
+```
+```
+02 Javascript - Array e loop For 
+```
+```
+03 Javascript - Lógica de Programação e Algoritmos
+```
+```
+04 Javascript - Objetos e funções
+```
+```
+05 Projeto - Playgrond Funcitions
+```
+</br>
+
+
+## Bloco 05: JavaScript: DOM, Eventos e Web Storage
+```
+
+```
+
+</br>
+
+## Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
+</br>
+
+## Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
+</br>
+
+## Bloco 08: Higher Order Functions do JavaScript ES6
+</br>
+
+## Bloco 09: JavaScript Assíncrono e Promises
+</br>
+
+## Bloco 10: Testes automatizados com Jest
+
+</details>
+
+</br></br>
+
 # Desenvolvimento Front-end
-#### Bloco 11: Introducao à React
+
+<details>
+<summary> <b>Front-End</b> </summary>
+</br>
+
+## Bloco 11: Introducao à React
 ```
 01 Introducao - Front-end / react / "hello, world no react"
 ```
@@ -11,7 +115,9 @@ Na Prática
 ```
 03 Projeto - Movie Cards Library
 ```
-#### Bloco 12: Componentes com Estado, Eventos e Formulários com React
+</br>
+
+## Bloco 12: Componentes com Estado, Eventos e Formulários com React
 ```
 01 Componentes com estado e eventos
 ```
@@ -21,7 +127,9 @@ Na Prática
 ```
 03 Projeto - Movie card Libray Statefull
 ```
-#### Bloco 13: Ciclo de vida de Componentes e React Router
+</br>
+
+## Bloco 13: Ciclo de vida de Componentes e React Router
 ```
 01 Ciclo de vida de componentes
 ```
@@ -31,14 +139,18 @@ Na Prática
 ```
 03 Projeto: Movie Cards Libray Crud
 ```
-#### Bloco 14: Metodologia Ágeis
+</br>
+
+## Bloco 14: Metodologia Ágeis
 ```
 01 Metodologia Ágeis
 ```
 ```
 02 Projeto - Frontend
 ```
-#### Bloco 15: Teste automotizados com React testing Libray
+</br>
+
+## Bloco 15: Teste automotizados com React testing Libray
 ```
 01 RTL - Primeiros passos
 ```
@@ -51,8 +163,9 @@ Na Prática
 ```
 04 Projeto - testes em React
 ```
+</br>
 
-#### Bloco 16: Gerenciamento de estado com Redux
+## Bloco 16: Gerenciamento de estado com Redux
 ```
 01 Introdução ao Redux - O estado global da aplicação
 ```
@@ -71,12 +184,14 @@ Na Prática
 ```
 06 Projeto Trybe Wallet
 ```
-#### Bloco 17: Projeto Jogo da Trivia
+</br>
+
+## Bloco 17: Projeto Jogo da Trivia
 ```
 Projeto - Jogo de Trivia
 ```
 
-#### Bloco 18: Context API e React Hooks
+## Bloco 18: Context API e React Hooks
 ```
 01 Context API do React
 ```
@@ -89,13 +204,23 @@ Projeto - Jogo de Trivia
 ```
 04 Projeto - Starwars Database com context API e Hooks
 ```
-#### Bloco 19: Projeto App de Receitas
+</br>
+
+## Bloco 19: Projeto App de Receitas
 
 ```
 01 Projeto - App de Receitas
 ```
+</details>
+</br></br>
+
 # Desenvolvimento Back-end
-#### Bloco 20: Introdução à SQL
+
+<details>
+<summary><b>Back-End</b></summary>
+</br>
+
+## Bloco 20: Introdução à SQL
 ```
 01 Introducao - Back-end / Bancos de dados relacionais / Banco de SQL
 ```
@@ -111,7 +236,10 @@ Projeto - Jogo de Trivia
 ```
 05 Projeto - All For One
 ```
-#### Bloco 21: Funções SQL, Joins e Subqueries
+
+</br>
+
+## Bloco 21: Funções SQL, Joins e Subqueries
 ```
 01 Funções mais usados no SQL
 ```
@@ -124,7 +252,9 @@ Projeto - Jogo de Trivia
 ```
 04 Projeto - Vocabulary Booster
 ```
-#### Bloco 22: Normalização e Modelagem de Banco de Dados
+</br>
+
+## Bloco 22: Normalização e Modelagem de Banco de Dados
 ```
 01 Transformando Ideias em um modelo de banco de dados - Parte1
 ```
@@ -137,7 +267,9 @@ Projeto - Jogo de Trivia
 ```
 Projeto One For All
 ```
-#### Bloco 23:  Introdução ao MongoDB
+</br>
+
+## Bloco 23:  Introdução ao MongoDB
 ```
 01 Introdução NoSQL / MongoDB Introducao
 ```
@@ -147,7 +279,9 @@ Projeto One For All
 ```
 03 Projeto - Data Flights
 ```
-#### Bloco 24: MongoDB: updates simples e complexos
+</br>
+
+## Bloco 24: MongoDB: updates simples e complexos
 ```
 01 Updates Simples
 ```
@@ -160,7 +294,9 @@ Projeto One For All
 ```
 04 Projeto - Commerce
 ```
-#### Bloco 25: MongoDB: Aggregation Framework
+</br>
+
+## Bloco 25: MongoDB: Aggregation Framework
 ```
 01 Aggregation Framework - Parte 1
 ```
@@ -170,7 +306,9 @@ Projeto One For All
 ```
 03 Projeto - Aggregations
 ```
-#### Bloco 26: Introdução ao desenvolvimento web com Nodejs
+</br>
+
+## Bloco 26: Introdução ao desenvolvimento web com Nodejs
 ```
 01 introdução - NodeJS
 ```
@@ -189,7 +327,9 @@ Projeto One For All
 ```
 06 Projeto - Talker Manager
 ```
-#### Bloco 27: Nodejs: Camada de Serviço e Arquitetura Rest e Restful
+</br>
+
+## Bloco 27: Nodejs: Camada de Serviço e Arquitetura Rest e Restful
 ```
   01 Introdução - Arquitetura de Software / Arquitetura de Software - Camada de Model
 ```
@@ -202,7 +342,9 @@ Projeto One For All
 ```
 04 Arquitetura de Software - Testando as Camandas
 ```
-#### Bloco 28: Autenticação e Upload de Arquivos
+</br>
+
+## Bloco 28: Autenticação e Upload de Arquivos
 ```
 01 NodeJS - JWT (JSON Web Token)
 ```
@@ -215,8 +357,9 @@ Projeto One For All
 ```
 04 Projeto - Cookmaster
 ```
+</br>
 
-#### Bloco 29: Deployment
+## Bloco 29: Deployment
 ```
 01 Introdução - Deploy , infraestrutura - Deploy com Heroku
 ```
@@ -226,8 +369,9 @@ Projeto One For All
 ```
 03 Projeto - Stranger Things
 ```
+</br>
 
-#### Bloco 30: Arquitetura SOLID e ORM
+## Bloco 30: Arquitetura SOLID e ORM
 ```
 01 Arquitetura - Principios SOLID
 ```
@@ -240,8 +384,9 @@ Projeto One For All
 ```
 04 Projeto - API de Blogs
 ```
+</br>
 
-#### Bloco 31: Sockets
+## Bloco 31: Sockets
 
 ```
 01 Arquitetura de Software - Camada de View
@@ -258,9 +403,12 @@ Projeto One For All
 ```
 05 Projeto WebChat
 ```
+</br>
 
-#### Bloco 32: Projeto Trybeer
+## Bloco 32: Projeto Trybeer
 
 ```
 01 Projeto Trybeer
 ```
+
+</details>
