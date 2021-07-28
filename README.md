@@ -76,25 +76,111 @@
 
 ## Bloco 05: JavaScript: DOM, Eventos e Web Storage
 ```
-
+01  Javascript Dom, eventos e web storage
+```
+```
+02 javascript - trabalhando com elementos
+```
+```
+03 javascript Eventos
+```
+```
+04 Fundamentos - Javascript - projetos
+```
+```
+05 Projeto - Arte com Pixels
+```
+```
+06 Projeto - lista de tarefas
+```
+```
+07 Projeto bonus - meme Gemerator / adivinhe a Cor / Carta Misteriosa
 ```
 
 </br>
 
 ## Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
+```
+01 HTML & CSS - Forms
+```
+```
+02 Biblioteca Javascript Frameworks CSS
+```
+```
+03 introdução CSS Flexbox - Parte 1
+```
+```
+04 CSS Flexbox - Parte 2
+```
+```
+05 CSS Responsivo - Mobile First
+```
+```
+06 Projeto - Trybewarts
+```
 </br>
 
 ## Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
+```
+01 Javascript ES6 - let , const arrow functions e template litarls 
+```
+```
+02 javascritp ES6 Objects
+```
+```
+03 Testes Unitários em javascript
+```
+```
+04 Projeto Javascript testes unitários
+```
 </br>
 
 ## Bloco 08: Higher Order Functions do JavaScript ES6
+```
+01 javascript ES6 - introdução a higher order functions
+```
+```
+02 javascript ES6 - higher order funcitons - forecach, find, some, every, sort
+```
+```
+03 javascript ES6 higher order functions - map e filter
+```
+```
+04 javascript ES6 higher order functions - reduce
+```
+```
+05 javascript ES6 - spread operador, parâmentro rest, destructuring e mais
+```
+```
+06 Projeto zoo functions
+```
 </br>
 
 ## Bloco 09: JavaScript Assíncrono e Promises
+```
+01 Javascript Assincron e callbacks
+```
+```
+02 javascript Promises
+```
+```
+03 Projeto - Carrinho de Compras
+```
 </br>
 
 ## Bloco 10: Testes automatizados com Jest
-
+```
+01 Primeiros passos no jest
+```
+```
+02 jest - Testes Assincronos
+```
+```
+03 jest - simulando comportamentos
+```
+```
+04 projeto - jest assíncrono e Mocking
+```
 </details>
 
 </br></br>
