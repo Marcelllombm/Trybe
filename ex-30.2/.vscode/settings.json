@@ -1,0 +1,22 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#043609",
+    "titleBar.activeBackground": "#064B0C",
+    "titleBar.activeForeground": "#EFFEF0"
+  },
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "username": "master",
+      "password": "master123",
+      "name": "aulaTrybe",
+      "database": "meu_banco"
+    }
+  ]
+}
